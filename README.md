@@ -34,6 +34,8 @@ If approved, the funds will be transferred to 6Block's designated wallet and use
 
 ## On-chain Execution Details
 
+**Proposal JSON:** [`proposal.json`](./proposal.json)
+
 This proposal uses `wasm/MsgExecuteContract` to invoke the `withdraw_ibc` entrypoint on Gonka's `community-sale` contract, transferring USDT to the recipient address. This mirrors the execution pattern of previously approved proposal [#42](http://node1.gonka.ai:8000/dashboard/gonka/gov/42) ("Support Gonka at Global Compute Sovereignty Summit").
 
 | Field | Value |
