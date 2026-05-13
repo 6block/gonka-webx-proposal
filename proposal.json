@@ -6,12 +6,12 @@
       "contract": "gonka18pkq9mwxxlmyq7kr5txhm060wemg2s4u94wvsfd9w2kdc0u99d6spk8pz2",
       "msg": {
         "withdraw_ibc": {
-          "amount": "75000000000",
           "denom": "ibc/115F68FBA220A028C6F6ED08EA0C1A9C8C52798B14FB66E6C89D5D8C06A524D4",
+          "amount": "75000000000",
           "recipient": "gonka1yqj5xf0wtqgpdmv5v68cus0tp2j5fv7lzcfd6g"
-        },
-        "funds": []
-      }
+        }
+      },
+      "funds": []
     }
   ],
   "metadata": "https://github.com/6block/gonka-webx-proposal/blob/main/README.md",
