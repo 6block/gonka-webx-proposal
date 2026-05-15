@@ -53,4 +53,4 @@ This proposal uses `wasm/MsgExecuteContract` to invoke the `withdraw_ibc` entryp
 
 ## About 6Block
 
-6Block is a long-term Gonka mining and infrastructure participant, contributing GPU compute and infrastructure development to the Gonka network.
+6Block, a long-term Gonka mining and infrastructure participant, proposes allocating 75,000 USDT from the Community Pool to support Gonka's effective participation at WebX Asia / WebX 2026 in Tokyo on July 13-14.
