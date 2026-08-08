@@ -1,9 +1,9 @@
 # Support Gonka's Presence at WebX Asia
 
-**Status:** Governance proposal pending on-chain submission to `gonka-mainnet`
+**Status:** Passed and executed on `gonka-mainnet` as proposal [#51](https://gonkascan.com/?page=governance&proposal_id=51) — [post-event report published](./POST-EVENT-REPORT.md)
 **Requested amount:** 75,000 USDT
 **Recipient address:** `gonka1yqj5xf0wtqgpdmv5v68cus0tp2j5fv7lzcfd6g`
-**Voting period:** 48 hours after submission
+**Voting period:** 2026-05-13 → 2026-05-15 (48 hours)
 **Submitted by:** 6Block
 
 ---
@@ -49,7 +49,9 @@ This proposal uses `wasm/MsgExecuteContract` to invoke the `withdraw_ibc` entryp
 
 ## Post-Event Reporting
 
-6Block commits to publishing a post-event summary in this repository covering execution outcomes, expense breakdown, and follow-up actions following Gonka's participation at WebX 2026.
+**The post-event report is now published: [`POST-EVENT-REPORT.md`](./POST-EVENT-REPORT.md)**
+
+It covers execution outcomes, the full expense breakdown, and follow-up actions from Gonka's participation at WebX Asia 2026 (Tokyo, July 13–14, 2026). The same report is also published in the Gonka community discussion [gonka-ai/gonka#1540](https://github.com/gonka-ai/gonka/discussions/1540) and on the Proposal Transparency Dashboard at [ptd.gonka.gg](https://ptd.gonka.gg/initiatives/proposal-51-support-gonkas-presence-at-webx-asia).
 
 ## About 6Block
 
